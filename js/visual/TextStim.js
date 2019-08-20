@@ -314,7 +314,7 @@ TextStim._defaultLetterHeightMap = new Map([
 /**
  * <p>This map associates units to default wrap width.</p>
  *
- * @name module:visual.TextStim#_defaultLetterHeightMap
+ * @name module:visual.TextStim#_defaultWrapWidthMap
  * @readonly
  * @private
  */
